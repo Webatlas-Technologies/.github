@@ -101,12 +101,14 @@ Healthcare · Fintech & Stock Trading · Real Estate · E-commerce · Logistics 
 
 ## The WebatlasTech Difference
 
-✔ Business outcomes first, code second
-✔ AI built in, not bolted on
-✔ Full transparency - direct access to the team building your product
-✔ NDA-first, every engagement
-✔ Architecture built to scale before you need it to
-✔ Long-term partnership, not a build-and-disappear vendor
+✔ Business outcomes first, code second                                
+✔ AI built in, not bolted on                                    
+✔ Full transparency - direct access to the team building your product                              
+✔ NDA-first, every engagement                                
+✔ Architecture built to scale before you need it to                                  
+✔ Long-term partnership, not a build-and-disappear vendor                              
+
+
 
 ---
 
