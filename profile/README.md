@@ -97,8 +97,19 @@ Healthcare · Fintech & Stock Trading · Real Estate · E-commerce · Logistics 
 > "I handed off a very large, broken codebase to them. They were able to effectively piece it back together, get it running again, and add new capabilities."
 > - **Jonathan Torkelson**
 
----
+## 🎥 Video Testimonials
 
+**Meghana Kandlakunta**
+
+[![Watch on YouTube](https://img.youtube.com/vi/EfSKW47XcjA/hqdefault.jpg)](https://youtu.be/EfSKW47XcjA)
+
+**Gil Comeaux**
+
+[![Watch on YouTube](https://img.youtube.com/vi/SSW01I4tB_w/hqdefault.jpg)](https://youtu.be/SSW01I4tB_w)
+
+**Ali Kassem**
+
+[![Watch on YouTube](https://img.youtube.com/vi/sdl0vZrxFq4/hqdefault.jpg)](https://youtu.be/sdl0vZrxFq4)
 ## The WebatlasTech Difference
 
 ✔ Business outcomes first, code second                                
