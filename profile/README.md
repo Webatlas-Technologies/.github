@@ -99,17 +99,22 @@ Healthcare · Fintech & Stock Trading · Real Estate · E-commerce · Logistics 
 
 ## 🎥 Video Testimonials
 
-**Meghana Kandlakunta**
+Hear directly from the people we've built for - no script, no edits, just their honest take on working with us.
+
+ **Meghana Kandlakunta**                       
 
 [![Watch on YouTube](https://img.youtube.com/vi/EfSKW47XcjA/hqdefault.jpg)](https://youtu.be/EfSKW47XcjA)
 
-**Gil Comeaux**
+ **Gil Comeaux**                      
 
 [![Watch on YouTube](https://img.youtube.com/vi/SSW01I4tB_w/hqdefault.jpg)](https://youtu.be/SSW01I4tB_w)
 
-**Ali Kassem**
+**Ali Kassem**                         
 
 [![Watch on YouTube](https://img.youtube.com/vi/sdl0vZrxFq4/hqdefault.jpg)](https://youtu.be/sdl0vZrxFq4)
+
+---
+
 ## The WebatlasTech Difference
 
 ✔ Business outcomes first, code second                                
